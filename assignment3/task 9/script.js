@@ -1,4 +1,4 @@
-// sort an array from smallest to largest
+// find the largest number
 
 let num_list = [ 24, 53, 78, 91, 12 ];
 document.getElementById("ini-array").innerText = num_list;
